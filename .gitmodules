@@ -1,0 +1,7 @@
+[submodule "CoreDataServer/Forest_CoreDataServer"]
+	path = CoreDataServer/Forest_CoreDataServer
+	url = https://github.com/hitorigraphy/Forest_CoreDataServer.git
+	branch = production
+[submodule "Forest_CoreDataServer"]
+	path = Forest_CoreDataServer
+	url = https://github.com/hitorigraphy/Forest_CoreDataServer.git
